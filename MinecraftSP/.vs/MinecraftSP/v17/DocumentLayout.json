@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Minecraft SP\\MinecraftSP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A173C69-70BA-40AC-BEB0-66E23E07AE16}|MinecraftSP\\MinecraftSP.csproj|c:\\minecraft sp\\minecraftsp\\minecraftsp\\services\\bloqueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A173C69-70BA-40AC-BEB0-66E23E07AE16}|MinecraftSP\\MinecraftSP.csproj|solutionrelative:minecraftsp\\services\\bloqueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A173C69-70BA-40AC-BEB0-66E23E07AE16}|MinecraftSP\\MinecraftSP.csproj|c:\\minecraft sp\\minecraftsp\\minecraftsp\\ui\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A173C69-70BA-40AC-BEB0-66E23E07AE16}|MinecraftSP\\MinecraftSP.csproj|solutionrelative:minecraftsp\\ui\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A173C69-70BA-40AC-BEB0-66E23E07AE16}|MinecraftSP\\MinecraftSP.csproj|c:\\minecraft sp\\minecraftsp\\minecraftsp\\services\\inventarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A173C69-70BA-40AC-BEB0-66E23E07AE16}|MinecraftSP\\MinecraftSP.csproj|solutionrelative:minecraftsp\\services\\inventarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A173C69-70BA-40AC-BEB0-66E23E07AE16}|MinecraftSP\\MinecraftSP.csproj|c:\\minecraft sp\\minecraftsp\\minecraftsp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A173C69-70BA-40AC-BEB0-66E23E07AE16}|MinecraftSP\\MinecraftSP.csproj|solutionrelative:minecraftsp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A173C69-70BA-40AC-BEB0-66E23E07AE16}|MinecraftSP\\MinecraftSP.csproj|c:\\minecraft sp\\minecraftsp\\minecraftsp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A173C69-70BA-40AC-BEB0-66E23E07AE16}|MinecraftSP\\MinecraftSP.csproj|solutionrelative:minecraftsp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A173C69-70BA-40AC-BEB0-66E23E07AE16}|MinecraftSP\\MinecraftSP.csproj|c:\\minecraft sp\\minecraftsp\\minecraftsp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A173C69-70BA-40AC-BEB0-66E23E07AE16}|MinecraftSP\\MinecraftSP.csproj|solutionrelative:minecraftsp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A173C69-70BA-40AC-BEB0-66E23E07AE16}|MinecraftSP\\MinecraftSP.csproj|c:\\minecraft sp\\minecraftsp\\minecraftsp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A173C69-70BA-40AC-BEB0-66E23E07AE16}|MinecraftSP\\MinecraftSP.csproj|solutionrelative:minecraftsp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A173C69-70BA-40AC-BEB0-66E23E07AE16}|MinecraftSP\\MinecraftSP.csproj|c:\\minecraft sp\\minecraftsp\\minecraftsp\\utils\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A173C69-70BA-40AC-BEB0-66E23E07AE16}|MinecraftSP\\MinecraftSP.csproj|solutionrelative:minecraftsp\\utils\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A173C69-70BA-40AC-BEB0-66E23E07AE16}|MinecraftSP\\MinecraftSP.csproj|c:\\minecraft sp\\minecraftsp\\minecraftsp\\models\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A173C69-70BA-40AC-BEB0-66E23E07AE16}|MinecraftSP\\MinecraftSP.csproj|solutionrelative:minecraftsp\\models\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A173C69-70BA-40AC-BEB0-66E23E07AE16}|MinecraftSP\\MinecraftSP.csproj|c:\\minecraft sp\\minecraftsp\\minecraftsp\\services\\jugadorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A173C69-70BA-40AC-BEB0-66E23E07AE16}|MinecraftSP\\MinecraftSP.csproj|solutionrelative:minecraftsp\\services\\jugadorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A173C69-70BA-40AC-BEB0-66E23E07AE16}|MinecraftSP\\MinecraftSP.csproj|c:\\minecraft sp\\minecraftsp\\minecraftsp\\models\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A173C69-70BA-40AC-BEB0-66E23E07AE16}|MinecraftSP\\MinecraftSP.csproj|solutionrelative:minecraftsp\\models\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A173C69-70BA-40AC-BEB0-66E23E07AE16}|MinecraftSP\\MinecraftSP.csproj|c:\\minecraft sp\\minecraftsp\\minecraftsp\\models\\bloque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A173C69-70BA-40AC-BEB0-66E23E07AE16}|MinecraftSP\\MinecraftSP.csproj|solutionrelative:minecraftsp\\models\\bloque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Minecraft SP\\MinecraftSP\\MinecraftSP\\Form1.cs",
+              "RelativeDocumentMoniker": "MinecraftSP\\Form1.cs",
+              "ToolTip": "C:\\Minecraft SP\\MinecraftSP\\MinecraftSP\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MinecraftSP\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T07:32:51.984Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Minecraft SP\\MinecraftSP\\MinecraftSP\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "MinecraftSP\\Form1.Designer.cs",
+              "ToolTip": "C:\\Minecraft SP\\MinecraftSP\\MinecraftSP\\Form1.Designer.cs",
+              "RelativeToolTip": "MinecraftSP\\Form1.Designer.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAkwAsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T04:52:37.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Minecraft SP\\MinecraftSP\\MinecraftSP\\Form1.cs",
+              "RelativeDocumentMoniker": "MinecraftSP\\Form1.cs",
+              "ToolTip": "C:\\Minecraft SP\\MinecraftSP\\MinecraftSP\\Form1.cs",
+              "RelativeToolTip": "MinecraftSP\\Form1.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAjwC8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T04:56:37.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Minecraft SP\\MinecraftSP\\MinecraftSP\\Program.cs",
+              "RelativeDocumentMoniker": "MinecraftSP\\Program.cs",
+              "ToolTip": "C:\\Minecraft SP\\MinecraftSP\\MinecraftSP\\Program.cs",
+              "RelativeToolTip": "MinecraftSP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:09:02.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventarioService.cs",
+              "DocumentMoniker": "C:\\Minecraft SP\\MinecraftSP\\MinecraftSP\\Services\\InventarioService.cs",
+              "RelativeDocumentMoniker": "MinecraftSP\\Services\\InventarioService.cs",
+              "ToolTip": "C:\\Minecraft SP\\MinecraftSP\\MinecraftSP\\Services\\InventarioService.cs",
+              "RelativeToolTip": "MinecraftSP\\Services\\InventarioService.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAGAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:11:52.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "C:\\Minecraft SP\\MinecraftSP\\MinecraftSP\\UI\\MenuManager.cs",
+              "RelativeDocumentMoniker": "MinecraftSP\\UI\\MenuManager.cs",
+              "ToolTip": "C:\\Minecraft SP\\MinecraftSP\\MinecraftSP\\UI\\MenuManager.cs",
+              "RelativeToolTip": "MinecraftSP\\UI\\MenuManager.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAKMDAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:12:33.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BloqueService.cs",
+              "DocumentMoniker": "C:\\Minecraft SP\\MinecraftSP\\MinecraftSP\\Services\\BloqueService.cs",
+              "RelativeDocumentMoniker": "MinecraftSP\\Services\\BloqueService.cs",
+              "ToolTip": "C:\\Minecraft SP\\MinecraftSP\\MinecraftSP\\Services\\BloqueService.cs",
+              "RelativeToolTip": "MinecraftSP\\Services\\BloqueService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAH4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:11:35.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JugadorService.cs",
+              "DocumentMoniker": "C:\\Minecraft SP\\MinecraftSP\\MinecraftSP\\Services\\JugadorService.cs",
+              "RelativeDocumentMoniker": "MinecraftSP\\Services\\JugadorService.cs",
+              "ToolTip": "C:\\Minecraft SP\\MinecraftSP\\MinecraftSP\\Services\\JugadorService.cs",
+              "RelativeToolTip": "MinecraftSP\\Services\\JugadorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:12:11.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Minecraft SP\\MinecraftSP\\MinecraftSP\\Utils\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "MinecraftSP\\Utils\\DatabaseManager.cs",
+              "ToolTip": "C:\\Minecraft SP\\MinecraftSP\\MinecraftSP\\Utils\\DatabaseManager.cs",
+              "RelativeToolTip": "MinecraftSP\\Utils\\DatabaseManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:12:58.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Jugador.cs",
+              "DocumentMoniker": "C:\\Minecraft SP\\MinecraftSP\\MinecraftSP\\Models\\Jugador.cs",
+              "RelativeDocumentMoniker": "MinecraftSP\\Models\\Jugador.cs",
+              "ToolTip": "C:\\Minecraft SP\\MinecraftSP\\MinecraftSP\\Models\\Jugador.cs",
+              "RelativeToolTip": "MinecraftSP\\Models\\Jugador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:11:02.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "C:\\Minecraft SP\\MinecraftSP\\MinecraftSP\\Models\\Inventario.cs",
+              "RelativeDocumentMoniker": "MinecraftSP\\Models\\Inventario.cs",
+              "ToolTip": "C:\\Minecraft SP\\MinecraftSP\\MinecraftSP\\Models\\Inventario.cs",
+              "RelativeToolTip": "MinecraftSP\\Models\\Inventario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:10:48.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bloque.cs",
+              "DocumentMoniker": "C:\\Minecraft SP\\MinecraftSP\\MinecraftSP\\Models\\Bloque.cs",
+              "RelativeDocumentMoniker": "MinecraftSP\\Models\\Bloque.cs",
+              "ToolTip": "C:\\Minecraft SP\\MinecraftSP\\MinecraftSP\\Models\\Bloque.cs",
+              "RelativeToolTip": "MinecraftSP\\Models\\Bloque.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:10:33.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
